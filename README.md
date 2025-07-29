@@ -1,4 +1,6 @@
 # Octra-OCS01-Testnet-Guide
+![Uploading image.png…]()
+
 Octra OCS01-Test Rehberi
 
 Bu floodda 
@@ -19,7 +21,7 @@ Rust yüklendikten sonra terminali yeniden başlat.
 
 Projeyi İndir & Derle
 
-git clone https://github.com/octra-labs/ocs01-test.git
+`git clone https://github.com/octra-labs/ocs01-test.git`
 
 `cd ocs01-test`
 
