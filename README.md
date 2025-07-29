@@ -1,12 +1,6 @@
-# Octra-OCS01-Testnet-Guide
+Octra OCS01-Testnet Rehberi
 
-https://private-user-images.githubusercontent.com/193430626/459892860-0d8ec782-edf6-4ce2-a75b-4ee08589afe7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDMxNjcsIm5iZiI6MTc1MzgwMjg2NywicGF0aCI6Ii8xOTM0MzA2MjYvNDU5ODkyODYwLTBkOGVjNzgyLWVkZjYtNGNlMi1hNzViLTRlZTA4NTg5YWZlNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNTI3NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYWIyMmUwZjQzYzFkMWQ5MDUwYWRkM2M5M2ExMWIxODI4YzE1YzQ4N2YwNTA3ZDRiYWQ4YTI5NGMzYjQ3YWUyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Kt68G6GFwz_AmNIVe3sRb3FjUe3OrY4UFX0FCbzwUxE
-
-Octra OCS01-Test Rehberi
-
-Bu floodda 
-@octra
- OCS01 testnetini nasıl yapacağınızı göstericem.
+Bu Github Rehberinde OCS01 testnetini nasıl yapacağınızı göstericem.
 
 Hangi Sistemlerde Çalışır?
 •Linux (Ubuntu, Fedora vb.)
@@ -69,3 +63,4 @@ Octra Discorduna girin ve projeye katkıda bulunmaya çalışın.
 
 4M$ yatırımları var.
 
+<img width="2048" height="1034" alt="image" src="https://github.com/user-attachments/assets/7d22e70c-b1fe-419f-94a7-9f88c7a9359d" />
